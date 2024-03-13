@@ -16,14 +16,14 @@
 
 💬 Ask me about **Java, JavaScript, CSS, HTML, Phython**
 
+📫 How to reach me **sfaciusangulo@cifpfbmoll.eu**
+
 ⚡ Fun fact **I enjoy poetry and music**
 
  </div>
  
 <div align="center"> 
-  <a href="faciusangulos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+
   <a href="https://www.linkedin.com/in/santiago-facius" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
